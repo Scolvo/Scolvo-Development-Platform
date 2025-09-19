@@ -16,7 +16,7 @@ The developer license is valid for 14 days and can be renewed any time from [`yo
 
 # Features
  * Access the full-stack Scolvo Development Platform:
-    * Mobile apps, without the need for Android Studio or Xcode (compatible web view is provided for local environments, mobile apps available within our online environments e.g.: Scolvo could, Customer cloud)
+    * Mobile apps, without the need for Android Studio or Xcode (compatible web view is provided for local environments, mobile apps available within our online environments e.g.: Scolvo cloud, Customer cloud)
     * Web frontend
     * Backend
     * Database
